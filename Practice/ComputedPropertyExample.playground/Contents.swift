@@ -1,3 +1,5 @@
+//: # Computed Property #
+
 import UIKit
 
 //struct CoordinatePoint {
