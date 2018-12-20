@@ -1,4 +1,5 @@
 //: # Computed Property #
+//: Computed Property Example
 
 import UIKit
 
